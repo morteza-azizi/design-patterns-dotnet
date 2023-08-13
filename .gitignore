@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Structural/Adapter/obj
+/.vs/design-patterns-dotnet/FileContentIndex
+*.wsuo
+/.vs
+/src/Structural/Adapter/.vs
